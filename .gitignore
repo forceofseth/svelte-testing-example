@@ -1,0 +1,11 @@
+/node_modules/
+/public/build/
+/generated-sources
+
+.DS_Store
+yarn-error.log
+.idea/
+.eslintcache
+/schemagen/
+/coverage/
+test.report.xml
